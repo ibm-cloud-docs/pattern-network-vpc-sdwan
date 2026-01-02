@@ -10,7 +10,7 @@ subcollection: pattern-network-vpc-sdwan
 
 ---
 
-{site.data.keyword.attribute-definition-list}}
+{{site.data.keyword.attribute-definition-list}}
 
 
 # Deploying VeloCloud SD-WAN Virtual Edge
@@ -29,7 +29,7 @@ Before starting, gather these essentials:
     - Log into Orchestrator and then create new VCE instance. After that you can get Activation Key.
 - **Configuration Files**: Prepare a basic USERDATA (cloud-init) information for initial setup including hostname, URL and registration key.
 
-```
+```json
 #cloud-config
 
 hostname: vce01

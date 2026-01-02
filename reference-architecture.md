@@ -19,7 +19,6 @@ docs: https://cloud.ibm.com/docs/solution-guide
 
 # use-case from 'code' column in
 # https://github.ibm.com/digital/taxonomy/blob/main/topics/topics_flat_list.csv
-use-case: MessageQueue
 
 content-type: reference-architecture
 
