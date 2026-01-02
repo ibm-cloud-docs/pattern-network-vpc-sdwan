@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "title": "Deploy SD-WAN virtual appliance on IBM Cloud VPC",
+  "introduction": "A Deployment Guide for SD-WAN virtual appliance on IBM Cloud VPC.",
+  "section_topics": {
+    "links": [
+      {
+        "title": "Overview",
+        "href": "/docs/pattern-network-vpc-sdwan?topic=pattern-network-vpc-sdwan-overview"
+      },
+      {
+        "title": "Reference Architecture",
+        "href": "/docs/pattern-network-vpc-sdwan?topic=pattern-network-vpc-sdwan-vce-arch"
+      },
+      {
+        "title": "Deployment Guide",
+        "href": "/docs/pattern-network-vpc-sdwan?topic=pattern-network-vpc-sdwan-deploying"
+      },
+      {
+        "title": "Resources",
+        "href": "/docs/pattern-network-vpc-sdwan?topic=pattern-network-vpc-sdwan-references"
+      }
+    ]
+  },
+  "section_architectures": [
+    {
+      "title": "Arista VeloCloud SD-WAN on IBM Cloud VPC",
+      "href": "/docs/pattern-network-vpc-sdwan?topic=pattern-network-vpc-sdwan-vce-arch",
+      "deployable": false
+    }
+  ]
+}
