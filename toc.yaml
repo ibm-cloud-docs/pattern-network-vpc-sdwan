@@ -1,0 +1,28 @@
+toc:
+  properties:
+    subcollection: pattern-network-vpc-sdwan
+    href: /docs/pattern-network-vpc-sdwan
+    path: pattern-network-vpc-sdwan
+    audience: solution
+    category: solution_docs
+    content-type: deployment
+    deployable: false
+    description: Deploy SD-WAN virtual appliance on IBM Cloud VPC
+    label: Deploy SD-WAN virtual appliance on IBM Cloud VPC
+  entries:
+  - navgroup:
+      id: overview
+      topics:
+      - overview.md
+  - navgroup:
+      id: architecture
+      topics:
+      - reference-architecture.md
+  - navgroup:
+      id: deploy
+      topics:
+      - deploy.md
+  - navgroup:
+      id: reference
+      topics:
+      - references.md
