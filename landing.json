@@ -27,6 +27,16 @@
       "title": "Arista VeloCloud SD-WAN on IBM Cloud VPC",
       "href": "/docs/pattern-network-vpc-sdwan?topic=pattern-network-vpc-sdwan-vce-arch",
       "deployable": false
+    },
+    {
+      "title": "Solution Guide for Resiliency in IBM Cloud",
+      "href": "/docs/resiliency",
+      "deployable": false
+    },
+    {
+      "title": "Securing multiple landing zones with a transit VPC and advanced security capabilities",
+      "href": "/docs/pattern-transit-vpc",
+      "deployable": false
     }
   ]
 }
